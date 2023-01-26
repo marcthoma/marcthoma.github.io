@@ -4,5 +4,5 @@
 
 layout: home
 ---
-## Hier steht jetzt etwas  
+## Dies ist ein kleiner Test 
 Hier steht jetzt auch etwas
