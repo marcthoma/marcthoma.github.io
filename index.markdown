@@ -4,5 +4,17 @@
 
 layout: home
 ---
-## Dies ist ein kleiner Test 
-Hier steht jetzt auch etwas
+## Dies ist ein kleiner Test   
+Hier steht jetzt auch etwas  
+
+
+| News                                | Computer | Test |  
+| ----------------------------------- | -------- | ---- |  
+| [spiegel.de](http://www.spiegel.de) | Test     | Test |  
+
+
+| Tables        | Are           | Cool          |
+| ------------- |:-------------:| -------------:|
+| col           | hi            | right-aligned |
+| col           | centered      |   $12         |
+| zebra stripes | neat          |    $1         |
